@@ -5,6 +5,8 @@ external/
 export_png/
 .DS_Store
 
+env
+
 MatlabAPI/analyze*/
 MatlabAPI/visualize*/
 MatlabAPI/private/maskApiMex.*
