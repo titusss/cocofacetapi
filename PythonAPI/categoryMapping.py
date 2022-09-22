@@ -1,4 +1,4 @@
-coco_cid_to_FACSED_cid_map: {
+coco_cid_to_FACSED_cid_map = {
     1: 793,
     2: 94,
     3: 207,
@@ -59,7 +59,7 @@ coco_cid_to_FACSED_cid_map: {
     63: 982
 }
 
-hypersim_cid_to_FACSED_cid_map: {
+hypersim_cid_to_FACSED_cid_map = {
     1: 1204,
     2: 1205,
     3: 181,
@@ -102,7 +102,7 @@ hypersim_cid_to_FACSED_cid_map: {
     40: 1217
 }
 
-human_parsing_cid_to_FACSED_cid_map: {
+human_parsing_cid_to_FACSED_cid_map = {
     1: 1220,
     2: 1221,
     3: 1222,
